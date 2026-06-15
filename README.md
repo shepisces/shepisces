@@ -61,11 +61,23 @@ I support the team through:
 A digital scholarship application system that helps students submit, track, and manage scholarship applications online.
 
 ---
-### Bangsak 
+### 🎮 Bangsak 
 
 A a two-player digital adaptation of the traditional Filipino game that transforms its core concepts into an interactive virtual experience. The game features competitive gameplay in which two players assume opposing roles and engage in strategic actions based on the original mechanics of Bangsak.
 
 ---
+🚀 Project Involvement
+🌱 AgriSenso — Pitching Project
+
+Served as a Researcher and Product Specialist. Helped prepare research, product details, and pitch materials. Presented the project at the provincial level and qualified for the regional level.
+
+🚢 AIMPORT — Pitching Project
+
+Served as a Researcher and Product Specialist. Prepared and presented the project concept, target market, business value, and potential impact. Helped develop the marketing and business direction of the project.
+
+🤖 RobotX Studio — AI Ready ASEAN Youth Challenge 2026
+
+Served as a Researcher and Product Specialist. Assisted in project content, research, and product preparation. Completed the AI Ready ASEAN Youth Challenge 2026 and received a Certificate of Appreciation.
 
 ### 🏢 Devthugs Platform
 
@@ -75,7 +87,7 @@ A company-related platform where I support documentation, coordination, planning
 
 ## 📫 Connect With Me
 
-Gmail: shanedelavegaonsing05@gmail.com
+📧: shanedelavegaonsing05@gmail.com
 ---
 
 ### “Building organized and meaningful digital solutions with Devthugs.”
