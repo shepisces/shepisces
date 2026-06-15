@@ -1,7 +1,5 @@
 <img src="./banner.jpg" alt="Banner" width="100%" />
 
-**Administrative Officer | Computer Science Student | Researcher & Product Specialist**
-
 ---
 
 ## 🧠 About Me
@@ -56,27 +54,16 @@ I support the team through:
 
 ---
 
-## 🚀 Projects
-
-### 🌱 AgriSenso — Pitching Project
-
-### ✈️ AIMPORT — Airport-Related Application/System Project
-
-### 🤖 RobotX Studio — AI Ready ASEAN Youth Challenge 2026
-
----
-
 ## 📌 Featured Projects
-
-### 🌱 AgriSenso
-
-An agriculture-focused innovation project designed to support smarter and more technology-driven farming solutions.
-
----
 
 ### 🎓 IskolarLink
 
 A digital scholarship application system that helps students submit, track, and manage scholarship applications online.
+
+---
+### Bangsak 
+
+A a two-player digital adaptation of the traditional Filipino game that transforms its core concepts into an interactive virtual experience. The game features competitive gameplay in which two players assume opposing roles and engage in strategic actions based on the original mechanics of Bangsak.
 
 ---
 
@@ -86,13 +73,9 @@ A company-related platform where I support documentation, coordination, planning
 
 ---
 
-## 📊 GitHub Stats
-
-
-
 ## 📫 Connect With Me
 
-
+Gmail: shanedelavegaonsing05@gmail.com
 ---
 
 ### “Building organized and meaningful digital solutions with Devthugs.”
