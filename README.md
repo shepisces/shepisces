@@ -24,27 +24,32 @@ I support the team through:
 ---
 
 ## 🛠️ Tech Stack
-
-
-
-\
-
----
+- Laravel
+- React
+- PHP
+- JavaScript
+- TypeScript
+- PostgreSQL
+- HTML & CSS
+- UI/UX Design
+- Web Development
 
 ## 🧰 Tools & Development Environment
-
-
-
-\
-
----
-
+- Git & GitHub
+- Laragon
+- VS Code
+- Postman
+  
 ## 🏆 Achievements
 
 🥈 **2nd Place** — Startup Competition, Agriculture Category
+
 🥉 **3rd Place** — National Innovation Day in Caraga, DOST Regional Pitch Fest
+
 🥉 **3rd Place** — Startup & Innovation Congress 2026
+
 🏅 **Top 10** — AgriSenso Innovation
+
 🎖 **Certificate of Appreciation** — AI Ready ASEAN Youth Challenge 2026
 
 ---
