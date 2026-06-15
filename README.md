@@ -1,3 +1,5 @@
+<img src="./banner.jpg" alt="Banner" width="100%" />
+
 **Administrative Officer | Computer Science Student | Researcher & Product Specialist**
 
 ---
@@ -54,19 +56,13 @@ I support the team through:
 
 ---
 
-## 🚀 Project Involvement
+## 🚀 Projects
 
 ### 🌱 AgriSenso — Pitching Project
 
-Served as a **Researcher and Product Specialist**. Helped prepare research, product details, and pitch materials. Presented the project at the provincial level and qualified for the regional level.
-
 ### ✈️ AIMPORT — Airport-Related Application/System Project
 
-Served as a **Researcher and Product Specialist**. Prepared and presented the project concept, target market, business value, and potential impact. Helped develop the marketing and business direction of the project.
-
 ### 🤖 RobotX Studio — AI Ready ASEAN Youth Challenge 2026
-
-Served as a **Researcher and Product Specialist**. Assisted in project content, research, and product preparation. Completed the AI Ready ASEAN Youth Challenge 2026 and received a Certificate of Appreciation.
 
 ---
 
@@ -76,16 +72,11 @@ Served as a **Researcher and Product Specialist**. Assisted in project content, 
 
 An agriculture-focused innovation project designed to support smarter and more technology-driven farming solutions.
 
-**Role:** Researcher and Product Specialist
-**Focus:** Agriculture, innovation, research, pitching, product planning
-
 ---
 
 ### 🎓 IskolarLink
 
 A digital scholarship application system that helps students submit, track, and manage scholarship applications online.
-
-**Focus:** Scholarship management, student application, admin approval, document submission
 
 ---
 
@@ -93,19 +84,14 @@ A digital scholarship application system that helps students submit, track, and 
 
 A company-related platform where I support documentation, coordination, planning, and web experience improvement.
 
-**Role:** Administrative Officer
-**Focus:** Documentation, coordination, planning, and team support
-
 ---
 
 ## 📊 GitHub Stats
 
----
+
 
 ## 📫 Connect With Me
 
-
-\
 
 ---
 
